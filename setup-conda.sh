@@ -28,5 +28,8 @@ bash Mambaforge-*.sh -b
 
 ~/mambaforge/bin/conda init $SHELL_NAME
 
+mamba install jupyterlab
+
+
 echo Please close and reopen your terminal.
 
