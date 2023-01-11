@@ -32,6 +32,10 @@ mamba install jupyterlab
 
 install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
 
+echo "alias jl="jupyter lab --no-browser"" >> ~/.bashrc
+
+
+
 
 echo Please close and reopen your terminal.
 
