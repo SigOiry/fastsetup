@@ -32,6 +32,8 @@ mamba install jupyterlab
 
 mamba install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
 
+mamba install ipywidgets
+
 echo "alias jl='jupyter lab --no-browser'" >> ~/.bashrc
 
 
