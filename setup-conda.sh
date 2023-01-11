@@ -36,8 +36,5 @@ mamba install ipywidgets
 
 echo "alias jl='jupyter lab --no-browser'" >> ~/.bashrc
 
-
-
-
 echo Please close and reopen your terminal.
 
